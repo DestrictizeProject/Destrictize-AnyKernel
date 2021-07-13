@@ -10,11 +10,11 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=
-device.name2=
-device.name3=
-device.name4=
-device.name5=
+device.name1=a51
+device.name2=f41
+device.name3=m21
+device.name4=m31
+device.name5=m31s
 supported.versions=
 supported.patchlevels=
 '; } # end properties
